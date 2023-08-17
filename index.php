@@ -36,7 +36,6 @@
     <?php 
         include("Registrar.php");
     ?>
-    <script src="Registrar.php"></script>
 </body>
 </html>
 
